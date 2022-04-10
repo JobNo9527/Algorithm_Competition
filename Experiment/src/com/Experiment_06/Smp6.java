@@ -22,7 +22,7 @@ public class Smp6 {
         return fibN.divide(new BigInteger("5"));
     }
 
-    public static void main(String[] args) throws IOException, ClassNotFoundException {
+    public static void main(String[] args) throws IOException {
 
         ObjectOutputStream o = new ObjectOutputStream(new FileOutputStream("f.txt"));
         long startTime = System.nanoTime();
@@ -30,7 +30,6 @@ public class Smp6 {
         o.close();
         long endTime = System.nanoTime();
         System.out.println("用时总计：" + (endTime - startTime) / 1000000000.0 / 60.0 + " minutes");
-//        System.out.println(fibonacci(100_000_000));
     }
 }
 /*

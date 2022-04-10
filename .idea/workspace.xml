@@ -1,34 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d7d9b48-e518-4613-8145-23ca6bdd084c" name="Changes" comment="" />
+    <list default="true" id="2d7d9b48-e518-4613-8145-23ca6bdd084c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment/src/com/Experiment_07/Smp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment/src/com/Experiment_07/Smp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment/src/com/Experiment_07/Smp4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/src/com/Experiment_06/Smp6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/src/com/Experiment_06/Smp6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="279atn7QcaTdjgKa0DOVICBz8JD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IDEA_Learning" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Smp4">
+    <configuration name="Smp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Experiment_07.Smp2" />
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Experiment_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Experiment_07.Smp4" />
+      <module name="Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Experiment_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Smp6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Experiment_06.Smp6" />
       <module name="Experiment" />
@@ -45,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Smp4" />
+        <item itemvalue="Application.Smp2" />
         <item itemvalue="Application.Smp6" />
       </list>
     </recent_temporary>
@@ -65,6 +120,15 @@
       <workItem from="1648906293093" duration="77000" />
       <workItem from="1648906385485" duration="80000" />
       <workItem from="1648906478090" duration="10000" />
+      <workItem from="1648906610344" duration="206000" />
+      <workItem from="1649219704968" duration="121000" />
+      <workItem from="1649240298043" duration="85000" />
+      <workItem from="1649242007696" duration="285000" />
+      <workItem from="1649291847950" duration="1095000" />
+      <workItem from="1649328155724" duration="3582000" />
+      <workItem from="1649397753875" duration="81000" />
+      <workItem from="1649398945457" duration="639000" />
+      <workItem from="1649577362008" duration="42000" />
     </task>
     <servers />
   </component>
@@ -83,6 +147,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
